@@ -1,0 +1,114 @@
+Computer Information:
+Manufacturer: Micro-Star International Co., Ltd.
+Model: MS-7D22
+Type: Desktop
+Touch input: not supported
+
+Processor:
+CPU Manufacturer: GenuineIntel
+CPU Brand: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+Thermal paste: Thermal Grizzly Kryonaut (12.5 W/mK)
+CPU Family: 0x6
+CPU Model: 0xa5
+CPU Stepping: 0x3
+CPU Type: 0x0
+Clock Speed: 3600 MHz
+Logical Processors: 8
+Physical Processors: 4
+Hyper-Threading: supported
+FCMOV: supported
+SSE2: supported
+SSE3: supported
+SSSE3: supported
+SSE4a: not supported
+SSE41: supported
+SSE42: supported
+AES: supported
+AVX: supported
+AVX2: supported
+AVX512F: not supported
+AVX512PF: not supported
+AVX512ER: not supported
+AVX512CD: not supported
+AVX512VNNI: not supported
+SHA: not supported
+CMPXCHG16B: supported
+LAHF/SAHF: supported
+PrefetchW: not supported
+BMI1: supported
+BMI2: supported
+F16C: supported
+FMA: supported
+
+OS Version:
+Windows 11 64-bit (before June: Windows 10 64-bit)
+NTFS: supported
+Provided crypto codes: not supported 311 0x0 0x0 0x0
+
+Client Information:
+Version: 1751405894
+Browser hardware acceleration status: enabled
+Browser Canvas: enabled
+Browser out-of-process Canvas rasterization: enabled
+Browser direct rendering compositing manager: disabled
+Browser compositing: enabled
+Browser multiple raster threads: enabled
+Browser OpenGL: enabled
+Browser rasterization: enabled
+Browser Raw Draw: disabled
+Browser Skia Graphite: disabled
+Browser video decoding: enabled
+Browser video encoding: enabled
+Browser Vulkan: disabled
+Browser WebGL: enabled
+Browser WebGL2: enabled
+Browser WebGPU: enabled
+Browser WebNN: disabled
+
+Graphics Card:
+Driver: NVIDIA GeForce GTX 1660 SUPER
+DirectX Driver: nvldumd.dll
+Driver Version: 32.0.15.7652
+DirectX Driver Version: 32.0.15.7652
+Driver Release Date: 14 5 2025
+Color Depth: 32 bits/pixel
+Refresh Rate: 180 Hz (179.9 Hz)
+DirectX Card: NVIDIA GeForce GTX 1660 SUPER
+Vendor ID: 0x10de
+Card ID: 0x21c4
+Revision: 0xa1
+Number of Displays: 2
+Number of Logical Video Cards: 2
+SLI or Crossfire: not detected
+Primary Display Resolution: 1920 x 1080
+Secondary Display Resolution: 1360 x 780
+Desktop Resolution: 1920 x 1848
+Primary Display Size: 23.50" x 13.23" (26.97" diag), 59.7cm x 33.6cm (68.5cm diag)
+Primary Bus: PCI Express 16x
+Primary VRAM: 6143 MB
+Supported Anti-Aliasing Modes: 2x 4x 8x
+
+Sound Card:
+Audio Device: Razer Blackshark V2 X
+
+Memory:
+RAM: 16281 MB
+
+Virtual Reality Devices:
+VR Headset: not detected
+
+Misc:
+Interface Language: Russian
+Media Type: not determined
+Total Disk Space: 1442120 MB
+Largest Free Disk: 166854 MB
+OS Installation Date: ??? 24 2022
+Game Controller: None
+
+Disk Space:
+Disk Serial Number Hash: d8ebb022
+Number of SSDs: 2
+SSD Sizes: 512G, 8589M
+Number of HDDs: 2
+HDD Sizes: 1000G, 7747M
+Number of Removable Drives: 0
