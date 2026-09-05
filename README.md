@@ -7,7 +7,7 @@
 - Экраны: 2 шт. (1920×1080 @180 Гц, 1360×780)  
 - Звук: Razer Blackshark V2 X (7.1 Surround Sound)
 - Браузер: аппаратное ускорение активно, WebGL2 и WebGPU включены
-
+================================================
 - CPU: Intel Core i3-10100F (3.6 GHz, 4 cores, 8 threads)  
 - GPU: NVIDIA GeForce GTX 1660 SUPER (6 GB)  
 - RAM: 16 GB  
