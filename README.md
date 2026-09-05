@@ -7,3 +7,13 @@
 - Экраны: 2 шт. (1920×1080 @180 Гц, 1360×780)  
 - Звук: Razer Blackshark V2 X (7.1 Surround Sound)
 - Браузер: аппаратное ускорение активно, WebGL2 и WebGPU включены
+
+- CPU: Intel Core i3-10100F (3.6 GHz, 4 cores, 8 threads)  
+- GPU: NVIDIA GeForce GTX 1660 SUPER (6 GB)  
+- RAM: 16 GB  
+- Motherboard: MSI MS-7D22  
+- OS: Windows 11 (64-bit)  
+- Storage: 2 SSD (512 GB and ~8.6 GB), 2 HDD (1 TB and ~7.7 GB)  
+- Displays: 2 (1920×1080 @180 Hz, 1360×780)  
+- Audio: Razer Blackshark V2 X (7.1 Surround Sound)
+- Browser: hardware acceleration enabled, WebGL2 and WebGPU enabled
