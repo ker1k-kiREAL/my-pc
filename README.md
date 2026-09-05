@@ -5,5 +5,5 @@
 - ОС: Windows 11 (64‑бит)  
 - Накопители: 2 SSD (512 ГБ и ~8.6 ГБ), 2 HDD (1 ТБ и ~7.7 ГБ)  
 - Экраны: 2 шт. (1920×1080 @180 Гц, 1360×780)  
-- Звук: Razer Blackshark V2 (7.1 Surround Sound)
+- Звук: Razer Blackshark V2 X (7.1 Surround Sound)
 - Браузер: аппаратное ускорение активно, WebGL2 и WebGPU включены
